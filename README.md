@@ -1,6 +1,3 @@
-Here is a clean and professional **README.md** you can directly copy into your GitHub repository 👇
-
----
 
 # 🧠 Breast Cancer Classification using Logistic Regression
 
@@ -76,5 +73,10 @@ The model performs reliably for this medical classification problem.
 The Logistic Regression model successfully classified tumors with high accuracy and strong recall. The results indicate that the model is effective for binary classification tasks and suitable for medical prediction scenarios.
 
 ---
+## 👨‍💻 Done By
 
+Parth Gupta
+AI & ML Internship – Task 1
+
+---
 
